@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Archive Today Umleitung",
+    "description": "Der Name der Erweiterung"
+  },
+  "extensionDescription": {
+    "message": "Fügt eine Schaltfläche hinzu, um die aktuelle Seite auf archive.today zu archivieren.",
+    "description": "Die Beschreibung der Erweiterung"
+  },
+  "archiveButton": {
+    "message": "Diese Seite archivieren",
+    "description": "Beschriftung für die Archiv-Schaltfläche"
+  }
+}

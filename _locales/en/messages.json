@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Archive Today Redirect",
+    "description": "The name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Adds a button to archive the current page at archive.today.",
+    "description": "The description of the extension"
+  },
+  "archiveButton": {
+    "message": "Archive this page",
+    "description": "Label for the archive button"
+  }
+}
