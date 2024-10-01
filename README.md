@@ -11,4 +11,4 @@
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/archive-today-redirect.git
+   git clone https://github.com/develcore/firefox-archive-today-redirect.git
